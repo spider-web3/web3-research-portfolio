@@ -5,7 +5,7 @@
 > **RWA Research Series — Report 01 | Industry Primer**  
 > 作者：Spider Wang  
 > 研究领域：DeFi / RWA  
-> 时间：2026 年 10 月  
+> 日期：2026 年 10 月  
 > 研究方法：公开资料梳理、产品机制分析、概念比较与定性风险评估
 
 ## 摘要（Executive Summary）
