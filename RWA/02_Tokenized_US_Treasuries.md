@@ -3,9 +3,8 @@
 **Tokenized U.S. Treasuries: Operating Mechanisms, Yield Sources, Economic Value and Risk Analysis**
 
 > **作者:** Spider Wang  
-> **研究领域:** DeFi / RWA / Tokenomics 
+> **研究领域:** DeFi / RWA / Tokenomics
 > **日期:** 2026年10月  
-> **Report Type:** Thematic Research / Industry Analysis  
 > **研究方法:** 公开资料梳理、产品机制分析、案例比较与定性风险评估
 
 ---
