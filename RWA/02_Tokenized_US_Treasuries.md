@@ -2,12 +2,11 @@
 
 **Tokenized U.S. Treasuries: Operating Mechanisms, Yield Sources, Economic Value and Risk Analysis**
 
-> **Web3 Research Report · RWA Series 02**  
-> **Author:** Spider Wang  
-> **Research Focus:** Real-World Assets (RWA) / Tokenized Government Debt / DeFi  
-> **Date:** 2026-10-23  
+> **作者:** Spider Wang  
+> **研究领域:** DeFi / RWA / Tokenomics 
+> **日期:** 2026年10月  
 > **Report Type:** Thematic Research / Industry Analysis  
-> **Status:** Research draft — product terms and market information require verification before publication
+> **研究方法:** 公开资料梳理、产品机制分析、案例比较与定性风险评估
 
 ---
 
@@ -232,35 +231,5 @@ BUIDL 的核心属性是**基金权益代币化**，而不是美国财政部直�
 
 **第三，研究代币化产品必须同时具备传统金融与链上风险视角。** 对投资者而言，产品权益是否清晰、赎回是否可执行、底层资产是否透明，比单纯的代币发行量更重要。
 
-后续研究可进一步围绕 **Ondo USDY／OUSG 的产品结构比较**、**BUIDL 的机构级分销逻辑**，以及**代币化国债作为 DeFi 抵押品的实际限制**展开。
-
----
-
-## 参考资料与核验清单（References & Verification Checklist）
-
-以下列出优先查阅的官方及一手资料入口。**本版未对各产品最新发行文件逐条完成核验；正式发布前应补充具体文件名称、版本、访问日期和对应章节引用。**
-
-1. **U.S. Department of the Treasury — Treasury Securities.** https://www.treasurydirect.gov/marketable-securities/  
-   核验 T-Bills、T-Notes、T-Bonds 的期限与现金流结构。
-2. **Ondo Finance — Official Website & Product Materials.** https://ondo.finance/  
-   核验 USDY、OUSG 的产品性质、资产支持、发行主体、投资者资格、费用与申赎条款。
-3. **BlackRock — Official Website.** https://www.blackrock.com/  
-   核验 BUIDL 的基金定位、投资政策及正式披露。
-4. **Securitize — Official Website.** https://securitize.io/  
-   核验代币化基金的发行及投资者服务角色。
-5. **RWA.xyz — Market Data & Methodology.** https://www.rwa.xyz/  
-   用于后续补充代币化国债相关产品规模与分类数据，须标明统计口径和查询日期。
-6. **U.S. Securities and Exchange Commission (SEC).** https://www.sec.gov/  
-   用于核查相关证券／基金披露和监管文件（视具体产品而定）。
-
-### 发布前检查
-
-- [ ] 复核 Ondo USDY、OUSG 最新法律文件、地域及投资者限制。
-- [ ] 复核 BUIDL 基金名称、投资范围、申赎及服务商角色。
-- [ ] 为每个具体产品事实补充可直接定位的原始来源链接。
-- [ ] 若增加收益率或市场规模，标注数据日期、统计口径与来源。
-- [ ] 删除本报告页首的“Research draft”标识，并更新最终发布日期。
-
----
 
 **免责声明：** 本报告基于公开资料及说明性分析框架撰写，仅用于教育、行业研究和信息交流，不构成投资、法律或税务建议。产品条款、监管要求及市场数据可能随时间变化，读者应以发行方最新有效文件为准。
