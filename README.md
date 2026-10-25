@@ -17,15 +17,12 @@ My professional experience spans policy research, corporate financing due dilige
 
 ### 01 | Real-World Assets (RWA)
 
-- [RWA Industry Primer — Asset Classification, Operating Mechanisms and Risks](RWA/01_RWA_Industry_Primer.md)
 
 ### 02 | Decentralized Finance (DeFi)
 
-- Research in progress.
 
 ### 03 | Tokenomics
 
-- Research in progress.
 
 ---
 
